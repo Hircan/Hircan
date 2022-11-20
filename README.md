@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://fumixpa.notion.site/d470036b77d3426f972669bb755153c6](https://fumixpa.notion.site/d470036b77d3426f972669bb755153c6)
 
-- 📝 I regularly write articles on [https://trenddeveloper.tistory.com/](https://trenddeveloper.tistory.com/)
-
 - 📫 How to reach me **fumixpa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
